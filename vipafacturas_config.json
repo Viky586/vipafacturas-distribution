@@ -1,0 +1,24 @@
+{
+  "app": "VipaFacturas",
+
+  "update": {
+    "latest_version": "1.0.0",
+    "installer_url": "https://github.com/TU_USUARIO/TU_REPO/releases/latest/download/VipaFacturas_Setup.exe",
+    "release_notes": "Primera versión pública de VipaFacturas."
+  },
+
+  "announcement": {
+    "enabled": false,
+    "id": "NONE",
+    "title": "",
+    "body": "",
+    "start_date": "",
+    "end_date": ""
+  },
+
+  "payment": {
+    "planned": false,
+    "payment_date": "",
+    "grace_days": 0
+  }
+}
