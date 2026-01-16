@@ -3,8 +3,7 @@
 
   "update": {
     "latest_version": "1.0.0",
-    "installer_url": ""installer_url": "https://github.com/Viky586/vipafacturas-distribution/releases/latest/download/VipaFacturas_Setup.exe"
-",
+    "installer_url": "https://github.com/Viky586/vipafacturas-distribution/releases/latest/download/VipaFacturas_Setup.exe",
     "release_notes": "Primera versión pública de VipaFacturas."
   },
 
@@ -23,3 +22,4 @@
     "grace_days": 0
   }
 }
+
