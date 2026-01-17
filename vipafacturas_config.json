@@ -7,20 +7,21 @@
   },
   "announcement": {
     "enabled": true,
-    "id": "ANUNCIO_002",
+    "id": "ANUNCIO_003",
     "title": "Este es un anuncio de prueba",
     "body": "prueba",
     "start_date": "",
     "end_date": ""
   },
   "payment": {
-    "planned": true,
+    "planned": false,
     "payment_date": "15/06/2026",
     "grace_days": 14,
     "title": "Aviso importante",
     "body": "VipaFacturas sera de pago a partir del {payment_date}. Te quedan {days_left} dias."
   }
 }
+
 
 
 
