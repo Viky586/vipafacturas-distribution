@@ -1,13 +1,13 @@
 {
   "app": "VipaFacturas",
   "update": {
-    "latest_version": "1.0.1",
+    "latest_version": "1.0.2",
     "installer_url": "https://github.com/Viky586/vipafacturas-distribution/releases/latest/download/VipaFacturas_Setup.exe",
     "release_notes": "Primera versión pública de VipaFacturas."
   },
   "announcement": {
     "enabled": true,
-    "id": "ANUNCIO_008",
+    "id": "ANUNCIO_009",
     "title": "Este es un anuncio de prueba",
     "body": "prueba",
     "start_date": "",
@@ -15,12 +15,13 @@
   },
   "payment": {
     "planned": true,
-    "payment_date": "15/06/2026",
+    "payment_date": "16/06/2026",
     "grace_days": 14,
     "title": "Aviso importante",
     "body": "VipaFacturas sera de pago a partir del {payment_date}. Te quedan {days_left} dias."
   }
 }
+
 
 
 
