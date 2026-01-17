@@ -9,7 +9,7 @@
 
   "announcement": {
     "enabled": true,
-    "id": "NONE",
+    "id": "NOse",
     "title": "Este es un anuncio de prueba",
     "body": "prueba",
     "start_date": "2026-01-15",
@@ -22,6 +22,7 @@
     "grace_days": 0
   }
 }
+
 
 
 
