@@ -7,8 +7,8 @@
   },
   "announcement": {
     "enabled": true,
-    "id": "ANUNCIO_003",
-    "title": "Este es un anuncio de prueba",
+    "id": "ANUNCIO_004",
+    "title": "Este es un anuncio de prueba, a ver",
     "body": "prueba",
     "start_date": "",
     "end_date": ""
@@ -21,6 +21,7 @@
     "body": "VipaFacturas sera de pago a partir del {payment_date}. Te quedan {days_left} dias."
   }
 }
+
 
 
 
