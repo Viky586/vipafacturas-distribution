@@ -12,16 +12,21 @@
     "id": "NOse",
     "title": "Este es un anuncio de prueba",
     "body": "prueba",
-    "start_date": "2026-01-15",
+    "start_date": "17/01/2026",
     "end_date": ""
   },
 
   "payment": {
-    "planned": true,
-    "payment_date": "2026-01-15",
-    "grace_days": 0
+  "planned": true,
+  "payment_date": "15/01/2026",
+  "grace_days": 14,
+  "title": "Aviso importante",
+  "body": "VipaFacturas sera de pago el {17/06/2026}. Te quedan {days_left} dias."
+}
+
   }
 }
+
 
 
 
