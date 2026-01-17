@@ -15,12 +15,13 @@
   },
   "payment": {
     "planned": true,
-    "payment_date": "15/01/2026",
+    "payment_date": "15/06/2026",
     "grace_days": 14,
     "title": "Aviso importante",
-    "body": "VipaFacturas sera de pago el {payment_date}. Te quedan {days_left} dias."
+    "body": "VipaFacturas sera de pago a partir del {payment_date}. Te quedan {days_left} dias."
   }
 }
+
 
 
 
