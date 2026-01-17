@@ -8,11 +8,11 @@
   },
 
   "announcement": {
-    "enabled": false,
+    "enabled": true,
     "id": "NONE",
-    "title": "",
-    "body": "",
-    "start_date": "",
+    "title": "Este es un anuncio de prueba",
+    "body": "prueba",
+    "start_date": "17/01/2016",
     "end_date": ""
   },
 
@@ -22,4 +22,5 @@
     "grace_days": 0
   }
 }
+
 
