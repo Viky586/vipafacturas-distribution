@@ -19,14 +19,12 @@
     "grace_days": 14,
     "title": "Aviso importante",
     "body": "VipaFacturas sera de pago a partir del {payment_date}. Te quedan {days_left} dias."
-  }
-
-
+  },
   "privacy": {
-  "version": "2026-01"
- }
-
+    "version": "2026-01"
+  }
 }
+
 
 
 
